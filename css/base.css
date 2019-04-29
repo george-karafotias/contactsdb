@@ -1,0 +1,31 @@
+body {
+	background-color: #f2e0b5;
+}
+form label {
+	font-weight:bold;
+}
+.successfulMsg {
+	font-weight:bold;
+	color:green;
+}
+.errorMsg {
+	font-weight:bold;
+	color:red;
+}
+.required {
+	color:red;
+}
+.frm {
+	margin-top:20px;
+}
+table.dataTable {
+	background-color: white!important;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+.noResultsMsg {
+	color:red;
+	font-weight:bold;
+	font-size:16pd;
+	margin-top:20px;
+}
